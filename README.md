@@ -1,6 +1,6 @@
 # HacktoberFest 2023 `GOOD FIRST` Pull Request - `Digital Rewards`🎉
 
-![logo](https://github.com/TYehan/HacktoberFest2023---Beginners/assets/85949077/ce246261-4112-4d72-a98e-4017ccc6e5a6)
+![logo](https://github.com/TYehan/HacktoberFest2023-Beginners/assets/85949077/ce246261-4112-4d72-a98e-4017ccc6e5a6)
 
 # Hello World In Every Language
 ### INSTRUCTIONS-
