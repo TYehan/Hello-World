@@ -1,5 +1,8 @@
+# HacktoberFest 2023 `GOOD FIRST` Pull Request - `Digital Rewards`🎉
+
+![HacktoberFest 2023](.github/logo.png)
+
 # Hello World In Every Language
-## Good First Pull Request
 ### INSTRUCTIONS-
 
 - ⭐ Fork this Repository using the button at the top on the right corner.
