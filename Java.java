@@ -1,5 +1,5 @@
 //Hello World
-class Hacktoberfest {
+public class Hacktoberfest {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
         System.out.println("Hello, World from a contibutor!");
