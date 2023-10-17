@@ -4,7 +4,7 @@
 
 # Hello World In Every Language
 ### INSTRUCTIONS-
-- ⭐ Star this Repository [![GitHub stars](https://img.shields.io/github/stars/TYehan/WordBreak.svg?style=social)](https://github.com/TYehan/WordBreak) 
+- ⭐ Star this Repository [![GitHub stars](https://img.shields.io/github/stars/TYehan/Hacktoberfest-2023.svg?style=social)](https://github.com/TYehan/Hacktoberfest-2023) 
 - ⭐ Fork this Repository
 - ⭐ Clone your forked repository to your PC.
 - ⭐ Create a <b>new branch</b> for your modifications.
