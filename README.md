@@ -2,12 +2,9 @@
 
 ![hf10_banner_sponsors_1032x600](https://github.com/TYehan/Hacktoberfest-2023/assets/85949077/a5284a0a-4ac0-498e-afdb-22805a340ac6)
 
-![image](https://github.com/TYehan/Hacktoberfest-2023/assets/85949077/ad0e5979-f9b1-431a-8bd7-18c35c217080)
-
 # Hello World In Every Language
 ### INSTRUCTIONS-
-
-- ⭐ Star this Repository
+- ⭐ Star this Repository [![GitHub stars](https://img.shields.io/github/stars/TYehan/WordBreak.svg?style=social)](https://github.com/TYehan/WordBreak) 
 - ⭐ Fork this Repository
 - ⭐ Clone your forked repository to your PC.
 - ⭐ Create a <b>new branch</b> for your modifications.
@@ -18,6 +15,8 @@
 
 #### 💡 If you can't find any new languages try updating the existing codes 
 #### 💡 You can add Programs other than "Hello World!" in [Programs in different languages](https://github.com/TYehan/HacktoberFest2023-Beginners/tree/main/Programs%20in%20different%20languages) folder
+
+![image](https://github.com/TYehan/Hacktoberfest-2023/assets/85949077/6c5ec528-4efb-45ca-9b12-62be7e81237a)
 
 # Learn More About [Hacktoberfest](https://hacktoberfest.com/)
 🔥 Register anytime between September 26 and October 31 <br>
