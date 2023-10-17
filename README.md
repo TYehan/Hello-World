@@ -4,7 +4,7 @@
 
 # Hello World In Every Language
 ### INSTRUCTIONS-
-- ⭐ Star this Repository [![GitHub stars](https://img.shields.io/github/stars/TYehan/Hacktoberfest-2023.svg?style=social)](https://github.com/TYehan/Hacktoberfest-2023) 
+- ⭐ Make sure to Star this Repository [![GitHub stars](https://img.shields.io/github/stars/TYehan/Hacktoberfest-2023.svg?style=social)](https://github.com/TYehan/Hacktoberfest-2023)
 - ⭐ Fork this Repository
 - ⭐ Clone your forked repository to your PC.
 - ⭐ Create a <b>new branch</b> for your modifications.
@@ -13,6 +13,9 @@
     -  Add your files ```git add -A```, commit ```git commit -m "added myself"``` and push ```git push origin new-user```
 - ⭐ Create a pull request
 
+```
+➡️➡️➡️ If you have done all the above Instructions, your PR will surely be accepted
+```
 #### 💡 If you can't find any new languages try updating the existing codes 
 #### 💡 You can add Programs other than "Hello World!" in [Programs in different languages](https://github.com/TYehan/HacktoberFest2023-Beginners/tree/main/Programs%20in%20different%20languages) folder
 
