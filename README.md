@@ -1,4 +1,4 @@
-# HacktoberFest 2023  - `Digital Rewards`🎉
+# HacktoberFest 2023
 
 ![hf10_banner_sponsors_1032x600](https://github.com/TYehan/Hacktoberfest-2023/assets/85949077/a5284a0a-4ac0-498e-afdb-22805a340ac6)
 
